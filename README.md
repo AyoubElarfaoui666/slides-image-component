@@ -13,3 +13,4 @@ If you are developing a production application, we recommend using TypeScript wi
 # slides-image-component
 # slides-image-component
 # slides-image-component
+# slides-image-component
